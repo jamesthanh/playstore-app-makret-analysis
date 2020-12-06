@@ -1,5 +1,5 @@
-# Google Playstory App Market Analysis
-- a small team of RMIT IT students wants to make a profitable mobile application. Their goals are to have a production-grade application with premium content and quality 
+# Google Playstore App Market Analysis
+- A small team of RMIT IT students wants to make a profitable mobile application. Their goals are to have a production-grade application with premium content and quality 
 so that customers will pay for the product.
 - The team did some market researching mostly on the websites and got some cool findings. However, they are uncertain which app category they should focus on, 
 what is a good starting price, and how big or complex the app should be?
